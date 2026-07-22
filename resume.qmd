@@ -1,89 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nephi Zaugg's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nephi Zaugg
+Computer Scientist, BYU-Idaho Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/MushuMan/ZARepo">Github Repo</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Computer Science at Brigham Young University Idaho. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Backend development, problem solving, learning, python, and c#.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Backend development, computer systems, foundational development.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020`
+__Tillamook High School/ORVED__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2023 - now`
+__Brigham Young University Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Computer Science Major
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2018`
+__Cafe Associate__, Tillamook Creamery (503 815 1300)
+- Took customer orders and provided assistance.
 
-- Warden
-- Minted coins
+`2019-2021 | 2025-Present`
+__Machine Operator/Packager__, Stowaway Gourmet (385 242 4651)
+- Worked to package food and maintain a clean and dry environment.
+- Professional Dish Washer.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2022`
+__Unarmed Security Guard__, The Church of Jesus Christ of Latter-Day Saints (801 722 5001)
+- Oversaw film set during the night.
+
+`2023`
+__Retail Warehouse Associate__, Tillamook Creamery (503 815 1300)
+- Priced items for the Creamery Visitor's Center.
+
+`2024`
+__IT Assistant__, Tillamook Family Counseling Center
+- Maintained IT infrastructure and helped with projects.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
